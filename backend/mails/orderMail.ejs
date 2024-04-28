@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Order Confirmation</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+      }
+      .header {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      .container {
+        max-width: 600px;
+        margin: 20px auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      h1,
+      h2 {
+        color: #333;
+      }
+      ul {
+        padding-left: 20px;
+      }
+      li {
+        margin-bottom: 5px;
+      }
+      .footer {
+        text-align: center;
+        margin-top: 20px;
+        color: #666;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h2>Welcome To FFT platform</h2>
+      </div>
+      <h1>Order Confirmation</h1>
+      <!-- <p>Dear [Customer Name],</p> -->
+
+      <p>Thank you for your order!</p>
+
+      <h2>Order <%= order._id %></h2>
+      <h3>Order Date <%= order.date %></h3>
+
+      <p>Total: <%= order.price %></p>
+
+      <p>Your order <%= order.name %></p>
+      <p>[Shipping Address]</p>
+    </div>
+    <div class="footer">
+      <p>This email was sent by FFT. Please do not reply to this email.</p>
+    </div>
+  </body>
+</html>

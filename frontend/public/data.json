@@ -1,0 +1,328 @@
+{
+  "Btech": {
+    "code01": {
+      "Subject": "Applied Chemistry",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/1LvpqpkvmQVvC-pK-XXAfErYHYFOMFbh6/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/10lWJREUuStdggSxWfLMhQp2RvBU_GGy-/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/1cV0YxJuV-k1XBBRzmE_n73lX9roPb_Bn/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/15iD-9OSxVpWXpbHMg-2u1wL_KvYiKvmi/view"
+        }
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1QtRhCAKw4NB4zhS6D9ktz159AUrnojPU/view"
+      },
+      "Viva": {
+        "notes1": "https://drive.google.com/file/d/1GLrMmGHWA2T1EYNWP1sCHoPPrDDaDcVJ/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/1vyn7EdId6lw8nyvCIj3psMW9P6jZQY9Z/view",
+      "syllabus": {
+        "units1": "Fuels: Classification and Characteristics of fuels, Calorific values, Comparison between solid, liquid\nand gaseous fuels, calorific values of fuels, determination of calorific values using Bomb\ncalorimeter, Boy’s calorimeter, theoretical calculation of calorific value using Dulong formula and\nnumericals of Calorific values. Types of fuels: - Solid: Coal, proximate and ultimate analysis of coal\nand numericals, carbonisation of coal in Otto-Hoffman oven with recovery of by-products,\nmetallurgical coke; Liquid: Petroleum products --- mining and refining of petroleum,knocking, numericals based on combustion of fuels (excluding flue gas analysis).",
+        "units2": "Engineering Materials: Portland Cement: manufacturing by Rotary Kiln, role of gypsum, chemistry of\nsetting and hardening of cement. Glass: manufacturing by tank furnace, significance of annealing,\ntypes and properties of soft glass, hard glass, borosilicate glass. Polymers: Basic concepts &\nterminology, classification and functionality of polymers, Properties and applications of (excluding synthesis): polyethylene, polymethacrylate, nylon, bakelite, polycarbonate, conducting polymers,\nliquid crystalline polymers, biodegradable polymers.",
+        "units3": "Water: Introduction, water quality standards, physical, chemical and biological characteristics;\nhardness of water, disadvantages of hardness, determination of hardness (EDTA method) and related\nnumerical questions, Alkalinity of water and related numericals. Boiler problems with hard water\nand their prevention: Scale and sludge formation, boiler corrosion, caustic embrittlement, priming\nand foaming, boiler water treatment –internal or in-situ: carbonate and phosphate conditioning,\ncolloidal and Calgon conditioning; external treatment: (a) Lime soda process and related numericals\n(b) Zeolite process and numericals (c) Ion-exchange process. Desalination, Reverse Osmosis,\nElectrodialysis.",
+        "units4": "Corrosion and its Control: Definition, effects, theory (mechanisms): dry/chemical,\nwet/electrochemical corrosion, Pilling-Bedworth ratio; Types of corrosion: Galvanic corrosion, Soil\ncorrosion, Pitting corrosion, Concentration cell or Differential Aeration corrosion, Stress corrosion;\nPassivity. Factors influencing corrosion; protective measures: galvanization, cathodic protection,\nsacrificial anodic protection; electroplatingCorrosion and its Control: Definition, effects, theory (mechanisms): dry/chemical,\nwet/electrochemical corrosion, Pilling-Bedworth ratio; Types of corrosion: Galvanic corrosion, Soil\ncorrosion, Pitting corrosion, Concentration cell or Differential Aeration corrosion, Stress corrosion;\nPassivity. Factors influencing corrosion; protective measures: galvanization, cathodic protection,\nsacrificial anodic protection; electroplating."
+      }
+    },
+    "code02": {
+      "Subject": "Programming in C",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/16qtyJND8VcJx7Y5iPpiUu9GGJ7Hz05JR/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/1i776eBq2yJsG2yuzzyOEDfxrunIR8vmp/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/1GIpvNQ3RDZQ8WRD1puWi_QrmyDUygKJy/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/14YXl-ZVNEhzXsrMReQgIc9aiLJc1AKyd/view"
+        }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/13TxPhPDomEflcpX9DdHzRropIhsZ8wEX/view"
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1am__YrIyVn2eehybgYnLsRPXbumFIqRW/view"
+      },
+      "Viva": {
+        "notes1": "https://drive.google.com/file/d/1eQ3uQFuGW97cNjLONU5VDxXVp1VKc3Hj/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/1UBSfRO_HIxKVH_282aB8gc_fLpjUjTlh/view",
+      "syllabus": {
+        "units1": "Introduction to Programming: Computer system, components of a computer system, computing\nenvironments, computer languages, creating and running programs, Preprocessor, Compilation\nprocess, role of linker, idea of invocation and execution of a programme. Algorithms:\nRepresentation using flowcharts, pseudocode.\nIntroduction to C language: History of C, basic structure of C programs, process of compiling and\nrunning a C program, C tokens, keywords, identifiers, constants, strings, special symbols, variables,\ndata types, I/O statements. Interconversion of variables.\nOperators and expressions: Operators, arithmetic, relational and logical, assignment operators,\nincrement and decrement operators, bitwise and conditional operators, special operators, operator\nprecedence and associativity, evaluation of expressions, type conversions in expressions.",
+        "units2": "Control structures: Decision statements; if and switch statement; Loop control statements: while,\nfor and do while loops, jump statements, break, continue, goto statements.\nArrays: Concepts, One dimensional array, declaration and initialization of one dimensional arrays,\ntwo dimensional arrays, initialization and accessing, multi-dimensional arrays.\nFunctions: User defined and built-in Functions, storage classes, Parameter passing in functions, call\nby value, Passing arrays to functions: idea of call by reference, Recursion.\nStrings: Arrays of characters, variable length character strings, inputting character strings,\ncharacter library functions, string handling functions.",
+        "units3": "Pointers: Pointer basics, pointer arithmetic, pointers to pointers, generic pointers, array of\npointers, functions returning pointers, Dynamic memory allocation. Pointers to functions. Pointers\nand Strings\nStructures and unions: Structure definition, initialization, accessing structures, nested structures,\narrays of structures, structures and functions, self-referential structures, unions, typedef,\nenumerations.\nFile handling: command line arguments, File modes, basic file operations read, write and append.\nScope and life of variables, multi-file programming.",
+        "units4": "C99 extensions. ‘C’ Standard Libraries: stdio.h, stdlib.h, assert.h, math.h, time.h, ctype.h,\nsetjmp.h, string.h, stdarg.h, unistd.h [3Hrs] [T1, R8]\nBasic Algorithms: Finding Factorial, Fibonacci series, Linear and Binary Searching, Basic Sorting\nAlgorithms- Bubble sort, Insertion sort and Selection sort. Find the square root of a number, array\norder reversal, reversal of a string."
+      }
+    },
+    "code03": {
+      "Subject": "Communications Skills",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/181Lu3ZMCvw35EvwZpm33ZFPTnHQ43Phu/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/1jiHTKV63_dRVm_lBvJIbW0X9qOR5k8R_/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/1pwm4Hlgi9XKWnilhamD8n-MIDpPPjQoO/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/1U4dRoBZ55U9aYiYaJrcJo5ncokXz6766/view"
+        }
+      },
+      "Aakash": "https://drive.google.com/file/d/1y_ctVTxz8JumJz6t0yv4CgLp0nQsvUHo/view",
+      "syllabus": {
+        "units1": "Role and Importance of Communications, Attributes of Communications, Verbal and Non-Verbal\nCommunications, Verbal Communications Skills, Non-verbal Communication Methods, Body\nLanguage, Barriers to Communications, Socio-psychological barriers, Inter-Cultural barriers,\nOvercoming barriers, Communication Mediums: Characterization and Choice of medium, Effective\nCommunication: Correctness, Clarity, Conciseness, Courtesy, Group Communication: Meetings\ntypes, purpose), Group Discussions, Conduct of Meeting, Participant Role, Making Presentations.",
+        "units2": "Spoken and Written English: Attributes of spoken and written communication, Formal & Informal\nCommunication, Variation in between Indian, British and American English. Etiquette and Manners:\nPersonal Behaviour, Greetings, Introductions, Telephone Etiquette. Vocabulary Development:\nDictionaries and Thesaurus, Words often confused, generally used one word substitutions,\nComprehension.",
+        "units3": "Letter writing: Planning the message, Planning Content, Structure, Language use, Layout, enquires\nand replies, asking for or giving quotations, Bargaining letters, Seller’s reply, etc.; Complaints and\nReplies; Memos, Circulars and notices;\nPapragraph Writing, Writing Scientific and Technical Reports: Types, Structure, Drafting and\nDelivering a Speech: Understanding the Environment, Understanding the Audience, Text preparing,\nComposition, Practicing, Commemorative Speeches, Welcome and Introduction, Farewell and Send-\noffs, Condolence.",
+        "units4": "Articles: Indefinite, Definite; Tenses: Present, Past, Future, Perfect (Present, Past and Future),\nTenses in conditional sentences; Active and Passive Voice: Formation, conversion; Direct and\nIndirect Speech, Degrees of Comparison, Common errors, Concepts of Learning and Listening."
+      }
+    },
+    "code04": {
+      "Subject": "Applied Physics – I",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/1g3dPwskjwpe87OWSb1IOY1ll3ML2wybj/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/12jgBCyyHK3QywnJPA5Ns4HRR0s4bU9lD/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/1STPFItb6wKANlfGkWpJ5yjMPxE9wMcr4/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/12jzh5Pk-ufWQnws_qjvwaGOzthZqTojV/view"
+        }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/13TxPhPDomEflcpX9DdHzRropIhsZ8wEX/view"
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1HPftQgRWtc7D_2HPShkcHd_63VFlBAIL/view"
+      },
+      "Viva": {
+        "notes1": "https://drive.google.com/file/d/1P8AuKiygaje724ige4aqaT9_XSUxHaeF/view",
+        "notes2": "https://drive.google.com/file/d/1ugwH9YoYWOeckCqRlQ-pE6cq3QvDygeW/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/17ek5FlJ1M385rn3Kb-63bha-tW35fyOE/view",
+      "syllabus": {
+        "units1": "Introduction to Thermodynamics: Fundamental Ideas of Thermodynamics, The Continuum Model,\nThe Concept of a “System’”, “State”, “Equilibrium”, “Process’”. Equations of state, Heat, Zeroth\nLaw of Thermodynamics, Work, first and second laws of thermodynamics, entropy.",
+        "units2": "Waves and Oscillations: Wave motion, simple harmonic motion, wave equation, superposition\nprinciple. Introduction to Electromagnetic Theory: Maxwell’s equations. work done by the\nelectromagnetic field, Poynting’s theorem, Momentum, Angular momentum in electromagnetic\nfields, Electromagnetic waves: the wave equation, plane electromagnetic waves, energy carried by\nelectromagnetic waves.",
+        "units3": "Interference: Interference by division of wave front (Young's double slit experiment, Fresnel's\nbiprism), interference by division of amplitude (thin films, Newton's rings, Michelson's\ninterferometer), Coherence and coherent sources.\nDiffraction: Fraunhofer and Fresnel diffraction; Fraunhofer diffraction for Single slit, double slit,\nand N-slit (diffraction grating), Fraunhofer diffraction from a circular aperture, resolving power and\ndispersive power of a grating, Rayleigh criterion, resolving power of optical instruments.\nPolarization: Introduction to polarization, Brewster’s law, Malu's law, Nicol prism, double refraction,\nquarter-wave and half-wave plates, optical activity, specific rotation, Laurent half shade\npolarimeter",
+        "units4": "Theory of relativity: The Michelson-Morley Experiment and the speed of light; Absolute and Inertial\nframes of reference, Galilean transformations, the postulates of the special theory of relativity,\nLorentz transformations, time dilation, length contraction, velocity addition, mass energy\nequivalence. Invariance of Maxwell’s equations under Lorentz Transformation.\nIntroduction to Laser Physics: Introduction, coherence, Einstein A and B coefficients, population\ninversion, basic principle and operation of a laser, the He-Ne laser and the Ruby laser."
+      }
+    },
+    "code10": {
+      "Subject": "Applied Physics – II",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/1g3dPwskjwpe87OWSb1IOY1ll3ML2wybj/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/12jgBCyyHK3QywnJPA5Ns4HRR0s4bU9lD/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/1STPFItb6wKANlfGkWpJ5yjMPxE9wMcr4/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/12jzh5Pk-ufWQnws_qjvwaGOzthZqTojV/view"
+        }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/1UQDWTx5ve3_IBZBs8-7f638DjMI1VnxF/view",
+        "ppt": "https://docs.google.com/presentation/d/101lWsgpO6wdDPV0tGyykdLkEbWFvnE-K"
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1sXYiKWi60l-j52XELKCNz8YHO5Lahi1B/view"
+      },
+      "Viva": {
+        "notes1": "https://drive.google.com/file/d/1P8AuKiygaje724ige4aqaT9_XSUxHaeF/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/1IqOupzoqdRIDdLA6pvBbN4iSX4dYJnBB/view",
+      "syllabus": {
+        "units1": "Quantum Mechanics: Introduction, Wave particle duality, de Broglie waves, the experiment of Davisson and Germer, electron diffraction, physical interpretation of the wave function, properties, the wave packet, group and phase velocity, the uncertainty principle, The Schrödinger wave equation (1D), Eigen values and Eigen functions, expectation values, simple Eigen value problems – solutions of the Schrödinger’s equations for the free particle, the infinite well, the finite well, tunneling effect, the scanning electron microscope, the quantum simple harmonic oscillator (qualitative), zero point energy",
+        "units2": "Quantum Statistics: The need for statistics, statistical distributions: Maxwell Boltzmann, Bose-Einstein and Fermi-Dirac statistics, their comparisons, Fermions and Bosons, Applications of quantum statistics: 1. Molecular speed and energies in an ideal gas, 2. The Black body spectrum, the failure of classical statistics to give the correct explanations – Bose-Einstein statistics applied to the Black Body radiation spectrum; Fermi-Dirac distribution, free electron theory, electronic specific heats, Fermi energy and average energy, Dying stars",
+        "units3": "Crystal Structure: Types of solids, Unit cell, Types of crystals, Translation vectors, Lattice planes, Miller indices, Simple crystal structures, Interplanar spacing, Crystal structure analysis: Bragg’s law, Laue method, Point defects: Schottcky and Frankel defects",
+        "units4": "Band Theory of Solids: Origin of energy bands in solids, motion of electrons in a periodic potential – the Kronig–Penny model (Qualitative), Brillouin zones, effective mass, metals, semi-conductors and insulators and their energy band structures, Extrinsic and Intrinsic semiconductors, doping – Fermi energy for doped and undoped semiconductors, the p-n junction (energy band diagrams with Fermi energy), the unbiased diode, forward and reverse biased diodes – tunnel diodes, zener diode, photo diode its characteristics"
+      }
+    },
+    "code05": {
+      "Subject": "Manufactoring Process",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/1PoofkfuWTfOJk-CrJw2uoUWuFFVnXp2H/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/1pUyF6zcoKODUYzO_fF0pPKSvXSoRzQvx/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/1ENVXBIt1zdYdBAFosWIwGRhMUwAFEIgb/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/1EM5DHL9CDrbfHMUCLaoNOwBuZj08fUhb/view"
+        }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/13TxPhPDomEflcpX9DdHzRropIhsZ8wEX/view"
+      },
+      "Most-Repeated": {
+        "pdf": "https://drive.google.com/file/d/18oayCpL9I1KC1eID8oYNCVgV_x3PJpP7/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/1Eh3F64_-jAHdhuXLyAjce5rJGJo0jrxx/view",
+      "syllabus": {
+        "units1": "Definition of manufacturing, Importance of manufacturing towards technological and social-economic development, Classification of manufacturing processes, Properties of materials. Metal Casting Processes: Sand casting, Sand moulds, Type of patterns, Pattern materials, Pattern allowances, Types of Moulding sand and their Properties, Core making, Elements of gating system. Description and operation of cupola. Working principle of Special casting processes - Shell casting, Pressure die casting, Centrifugal casting. Casting defects.",
+        "units2": "Joining Processes: Welding principles, classification of welding processes, Fusion welding, Gas welding, Equipments used, Filler and Flux materials. Electric arc welding, Gas metal arc welding, Submerged arc welding, Electro slag welding, TIG and MIG welding process, resistance welding, welding defects.",
+        "units3": "Deformation Processes: Hot working and cold working of metals, Forging processes, Open and closed die forging process. Typical forging operations, Rolling of metals, Principle of rod and wire drawing, Tube drawing. Principle of Extrusion, Types of Extrusion, Hot and Cold extrusion. Sheet metal characteristics -Typical shearing operations, bending and drawing operations, Stretch forming operations, Metal spinning",
+        "units4": "Powder Metallurgy: Introduction of powder metallurgy process, powder production, blending, compaction, sintering Manufacturing Of Plastic Components: Types of plastics, Characteristics of the forming and shaping processes, Moulding of Thermoplastics, Injection moulding, Blow moulding, Rotational moulding, Film blowing, Extrusion, Thermoforming. Moulding of thermosets- Compression moulding, Transfer moulding, Bonding of Thermoplastics."
+      }
+    },
+    "code06": {
+      "Subject": "Electrical Science",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/1u8KeQc3uuf_5wQdzJGwjnPFH91DhlFaL/view"
+        }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/1RG7eC9_D6dS80pnh2Oh9UdrNMTyo3SMD/view"
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1kIlhTdBEK6HFhWXPQQmzj5eQ5avSHgYV/view"
+      },
+      "Viva": {
+        "notes1": "https://drive.google.com/file/d/1eQ1GqMNKDKDD3AKDdN8op_wqRSU9tcR7/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/1xzyxjfWg5zq1Zo-IOpEpmpymFhArDatC/view",
+      "syllabus": {
+        "units1": "DC Circuits: Passive circuit components, Basic laws of Electrical Engineering, Temperature Resistance Coefficients. voltage and current sources, Series and parallel circuits, power and energy, Kirchhoff‟s Laws, Nodal & Mesh Analysis, delta-star transformation, superposition theorem, Thevenin‟s theorem, Norton‟s theorem, maximum power transfer theorem. Time domain analysis of first Order RC & LC circuits.",
+        "units2": "AC Circuits: Representation of sinusoidal waveforms, peak and rms values, phasor representation, real power, reactive power, apparent power, power factor. Analysis of single-phase ac circuits consisting of R, L, C, RL, RC, RLC combinations (series and parallel), resonance. Three phase balanced circuits, voltage and current relations in star and delta connections.",
+        "units3": "D. C. Generators & Motors: Principle of operation of Generators & Motors, Speed Control of shunt motors, Flux control, Rheostatic control, voltage control, Speed control of series motors. A. C. Generators & Motors: Principle of operation, Revolving Magnetic field, Squirrel cage and phase wound rotor, Starting of Induction motors, Direct on line and Star Delta starters, Synchronous machines.",
+        "units4": "Transformers: Construction and principle of operation, equivalent circuit, losses in transformers, regulation and efficiency. Auto-transformer and three-phase transformer connections. Measuring Instruments: Electromagnetism, Different Torques in Indicating instruments, Moving Iron Instruments: Construction & Principle, Attraction and Repulsion type; Moving Coil instruments: Permanent Magnet type; Dynamometer type Instruments."
+      }
+    },
+    "code07": {
+      "Subject": "Applied Mathematics ",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/172WfsMXvWPx7_d4_TAajqJ82xS5d_KcF/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/1IEfb4rQJuAAL7ICL8jw0vCBQ1Yv4J-kG/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/13EeTwY3rCtGMaiN8Dc7a-pASCLQgmHPm/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/1CSeJ_VJU2Jlegs33bEhjes-f7wWsWqUI/view"
+        }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/1R7p-0ySDq8135-kO1FcQA3aTHBuZ2fSy/view"
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1ENXNwnwT1Rh6uHvNXbaUAKq5CDKgLqxl/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/1oXuWRinT01cIK_Q6tCpg_-MAReXdV_sv/view",
+      "syllabus": {
+        "units1": "Partial derivatives, Chain rule, Differentiation of Implicit functions, Exact differentials. Maxima, Minima and saddle points, Method of Lagrange multipliers. Differentiation under Integral sign, Jacobians and transformations of coordinates",
+        "units2": "Ordinary Differential Equations (ODEs): Basic Concepts. Geometric Meaning of y’= ƒ(x, y). Direction Fields, Euler’s Method, Separable ODEs. Exact ODEs. Integrating Factors, Linear ODEs. Bernoulli Equation. Population Dynamics, Orthogonal Trajectories. Homogeneous Linear ODEs with Constant Coefficients. Differential Operators. Modeling of Free Oscillations of a Mass–Spring System, Euler– Cauchy Equations. Wronskian, Nonhomogeneous ODEs, Solution by Variation of Parameters. Power Series Method for solution of ODEs: Legendre’s Equation. Legendre Polynomials, Bessel’s Equation, Bessels’s functions Jn(x) and Yn(x). Gamma Function",
+        "units3": "Linear Algebra: Matrices and Determinants, Gauss Elimination, Linear Independence. Rank of a Matrix. Vector Space. Solutions of Linear Systems and concept of Existence, Uniqueness, Determinants. Cramer’s Rule, Gauss–Jordan Elimination. The Matrix Eigenvalue Problem. Determining Eigenvalues and Eigenvectors, Symmetric, Skew-Symmetric, and Orthogonal Matrices. Eigenbases. Diagonalization. Quadratic Forms.Cayley – Hamilton Theorem (without proof)",
+        "units4": "Vector Calculus: Vector and Scalar Functions and Their Fields. Derivatives, Curves. Arc Length. Curvature. Torsion, Gradient of a Scalar Field. Directional Derivative, Divergence of a Vector Field, Curl of a Vector Field, Line Integrals, Path Independence of Line Integrals, Double Integrals, Green’s Theorem in the Plane, Surfaces for Surface Integrals, Surface Integrals, Triple Integrals, Stokes Theorem. Divergence Theorem of Gauss."
+      }
+    },
+    "code11": {
+      "Subject": "Applied Mathematics-II",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/1MFPcr5r_hw-UVWenRaVHyVVCJwfU8FCf/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/1IEfb4rQJuAAL7ICL8jw0vCBQ1Yv4J-kG/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/13EeTwY3rCtGMaiN8Dc7a-pASCLQgmHPm/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/1CSeJ_VJU2Jlegs33bEhjes-f7wWsWqUI/view"
+        }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/1sWucuhzSvNNr-8blp0rz4RmBTJx9bH1I/view"
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1dyoowutqTCGM7HtK1REmNhN3bTTFO8_P/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/1gFk2AU2qVq5auVu17mJ5LQjGSGZDSlUm/view",
+      "syllabus": {
+        "units1": "Complex Analysis – I: Complex Numbers and Their Geometric Representation, Polar Form of Complex Numbers, Powers and Roots, Derivative, Analytic Function, Cauchy–Riemann Equations, Laplace’s Equation, Exponential Function, Trigonometric and Hyperbolic Functions, Euler’s Formula, de’Moivre’s theorem (without proof), Logarithm, General Power, Principal Value, Singularities and Zeros, Infinity, Line Integral in the Complex Plane, Cauchy’s Integral Theorem, Cauchy’s Integral Formula, Derivatives of Analytic Functions, Taylor and Maclaurin Series",
+        "units2": "Complex Analysis – II: Laurent Series, Residue Integration Method, Residue Integration of Real Integrals, Geometry of Analytic Functions: Conformal Mapping, Linear Fractional Transformations (Möbius Transformations), Special Linear Fractional Transformations, Conformal Mapping by Other Functions, Applications: Electrostatic Fields, Use of Conformal Mapping, Modeling, Heat Problems, Fluid Flow, Poisson’s Integral Formula for Potentials",
+        "units3": "Laplace Transforms: Definitions and existence (without proof), properties, First Shifting Theorem (s- Shifting), Transforms of Derivatives and Integrals and ODEs, Unit Step Function (Heaviside Function), Second Shifting Theorem (t-Shifting), Short Impulses, Dirac’s Delta Function, Partial Fractions, Convolution, Integral Equations, Differentiation and Integration of Transforms, Solution of ODEs with Variable Coefficients, Solution of Systems of ODEs, Inverse Laplace transform and its properties, Fourier Analysis: Fourier Series, Arbitrary Period, Even and Odd Functions, Half-Range Expansions, Sturm–Liouville Problems, Fourier Integral, Fourier Cosine and Sine Transforms, Fourier Transform, Usage of Fourier analysis for solution of ODEs, Inverse Fourier transform and its properties",
+        "units4": "Partial Differential Equations (PDEs): Basic Concepts of PDEs, Modeling: Vibrating String, Wave Equation, Solution by Separating Variables, Use of Fourier Series, D’Alembert’s Solution of the Wave Equation, Characteristics, Modeling: Heat Flow from a Body in Space, Heat Equation: Solution by Fourier Series, Steady Two-Dimensional Heat Problems, Dirichlet Problem, Heat Equation: Modeling Very Long Bars, Solution by Fourier Integrals and Transforms, Modeling: Membrane, Two-Dimensional Wave Equation, Rectangular Membrane, Laplacian in Polar Coordinates, Circular Membrane, Laplace’s Equation in Cylindrical and Spherical Coordinates, Potential, Solution of PDEs by Laplace Transforms"
+      }
+    },
+    "code08": {
+      "Subject": "Engineering Mechanics",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/167AILhkLtRxR17Wzn9bf5tRJQQI7mfM4/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/12NSiOpfGinSQklvw7XLlGZS-f4odAy6r/view"
+        }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/1R7p-0ySDq8135-kO1FcQA3aTHBuZ2fSy/view"
+      },
+      "Most-Repeated": {
+        "pdf": "https://drive.google.com/file/d/1xZYx1FpQvg7VcgjhpQYX7TAh93PNcHDk/view"
+      },
+      "Viva": {
+        "notes1": "https://drive.google.com/file/d/1ugwH9YoYWOeckCqRlQ-pE6cq3QvDygeW/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/1AZcS1QqfLm3U-Y7e_lTD1YwlumxeIZF9/view",
+      "syllabus": {
+        "units1": "Force System: Introduction, force, principle of transmissibility of force, resultant of a force system, resolution of a force, moment of force about a line, Varignon’s theorem, couple, resolution of force into force and a couple, properties of couple and their application to engineering problems, Equilibrium: Force body diagram, equations of equilibrium, applications to engineering problems, equilibrium of two force and three force members, Distributed Forces: Determination of center of gravity, center of mass and centroid by direct integration and by the method of composite bodies, mass moment of inertia and area moment of inertia by direct integration and composite bodies method, radius of gyration, parallel axis theorem, polar moment of inertial",
+        "units2": "Structure: Plane truss, perfect and imperfect truss, assumption in the truss analysis, analysis of perfect plane trusses by the method of joints, method of section and graphical method, Friction: Static and Kinetic friction, laws of dry friction, co-efficient of friction, angle of friction, angle of repose, cone of friction, frictional lock, friction in flat pivot and collar bearing, friction in flat belts",
+        "units3": "Kinematics of Particles: Rectilinear motion, plane curvilinear motion, rectangular coordinates, normal and tangential coordinates, Kinetics of Particles: Equation of motion, rectilinear motion and curvilinear motion, work-energy equation, conservation of energy, concept of impulse and momentum, conservation of momentum, impact of bodies, co-efficient of restitution, loss of energy during impact",
+        "units4": "Kinematics of Rigid Bodies: Concept of rigid body, types of rigid body motion, absolute motion, introduction to relative velocity, relative acceleration (Corioli’s component excluded) and instantaneous center of zero velocity, Velocity and acceleration, Kinetics of Rigid Bodies: Equation of motion, translatory motion and fixed axis rotation, application of work energy principles to rigid bodies conservation of energy, Beam: Introduction, types of loading, methods for the reactions of a beam, space diagram, types of end supports, beams subjected to couple"
+      }
+    },
+    "code09": {
+      "Subject": "EnvironMent Studies",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/1ewLwo1QzMU2fbXlHi1cEugFryjJEOkXZ/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/1nFi2mct2FvL1P9acJFM5wjfP25He_yWU/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/1STPFItb6wKANlfGkWpJ5yjMPxE9wMcr4/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/12jzh5Pk-ufWQnws_qjvwaGOzthZqTojV/view"
+        }
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1zregCUYNlB3bpqtAEbhxjYNdqKMdPudo/view"
+      },
+
+      "Aakash": "https://drive.google.com/file/d/1mGlplTwuihLj_J8KSHFT0-42VclASSq-/view",
+      "syllabus": {
+        "units1": "Fundamentals: The Multidisciplinary nature of environmental studies: Definition, components, scope and importance, need for public awareness, Natural Resources, Ecosystems: Concept, Structure and function of an ecosystem, Types, Functional Components, Different ecosystems, Biogeochemical cycles, Biodiversity: Introduction to biodiversity, biogeographical classification, India as a mega diversity nation, endangered and endemic species of India, threats to biodiversity and conservation of biodiversity, Bioprospecting and Biopiracy",
+        "units2": "Environmental Pollution: (a) Air Pollution: Source, Types, effects on biosphere and Meterology, Air Quality, Control, (b) Water Pollution: Types and Sources, (c) Soil Pollution: Types and Control, (d) Noise Pollution: Effect, Control, (e) Thermal Pollution, (f) Radiation Pollution, (g) Solid waste Management, (h) Pollution Prevention, (i) Disaster Management",
+        "units3": "Social Issues and Environment: Concept of Sustainable Development, Urban problem related to energy, Water Conservation, Wasteland reclamation, Resettlement and Rehabilitation, Climate Change, Nuclear Accidents, Consumerism and Waste Products, Laws related to Environment, Pollution, Forest and Wild life, Environmental Impact Assessment",
+        "units4": "Human Population and Environment: Population Growth, Human Rights, Family WelfareProgrammes, Environment and Human Health, HIV/AIDS, Women and Child Welfare, Role of IT"
+      }
+    }
+  }
+}
